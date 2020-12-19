@@ -1,0 +1,51 @@
+vehicle_id,vehicle_plate,registration_state,color,make,model,vehicle_type,per_day_rental_fee,per_day_insurance_fee
+1,W9FLYC7,TX,black,toyota,cruiser,mid size sedan,44,27
+2,CA1CJIZ,NE,silver,ford,se,suv,96,71
+3,HB5YI9A,CA,silver,dodge,mpv,truck,26,28
+4,NZPHM63,TN,blue,ford,door,truck,43,39
+5,Q5YRMRV,FL,red,chevrolet,1500,truck,41,33
+6,L3GX0F2,DE,white,dodge,mpv,truck,68,21
+7,QL4WW61,OR,black,chevrolet,pk,truck,80,42
+8,8CWVVUB,TX,gray,gmc,door,mid size sedan,71,34
+9,KDXWDBD,MI,silver,chevrolet,malibu,compact sedan,37,49
+10,516ZXB8,OH,black,ford,mpv,mid size sedan,51,64
+11,AAI55X2,NY,orange,dodge,coupe,coupe,65,44
+12,CRGOPXL,NY,white,gmc,mpv,mid size sedan,54,47
+13,ZZNUDAB,CA,black,chevrolet,1500,truck,70,60
+14,M95F568,IL,gray,chrysler,wagon,suv,92,40
+15,YULENQP,FL,black,ford,door,truck,53,38
+16,DS29GUE,MD,white,gmc,door,mid size sedan,78,52
+17,FO3JVIB,TX,blue,kia,forte,coupe,38,41
+18,G801DLJ,NV,red,buick,encore,mid size sedan,60,43
+19,VRIEIVE,FL,white,ford,mpv,truck,25,66
+20,YR8JZ1J,WA,gray,ford,door,truck,52,77
+21,V3NF2FG,TX,white,gmc,door,mid size sedan,60,56
+22,4KYQLSH,MD,black,kia,forte,coupe,49,31
+23,UDFQG4S,CA,black,chevrolet,door,mid size sedan,76,33
+24,L6YXUHV,TN,blue,ford,mpv,truck,75,35
+25,D6XLNTT,MO,silver,ford,door,truck,97,45
+26,DO7C0QE,CA,silver,gmc,door,mid size sedan,71,92
+27,YPR5PXG,IL,blue,kia,sorento,compact sedan,49,37
+28,VMM9O4N,AL,brown,buick,door,mid size sedan,81,91
+29,KNXNQGL,TN,white,ford,doors,mid size sedan,82,34
+30,IGCWN1M,TX,white,ford,chassis,truck,77,55
+31,TRXCDT5,PA,silver,gmc,door,mid size sedan,28,86
+32,ERQJIQL,TX,gray,infiniti,q70,coupe,64,61
+33,WZSSH8M,CA,red,chevrolet,camaro,mid size sedan,40,42
+34,I2WMWZP,IN,no_color,ford,mpv,mid size sedan,38,97
+35,L1ECFOE,CA,gray,ford,convertible,coupe,77,49
+36,R0WOA2G,MN,black,gmc,door,mid size sedan,70,95
+37,D4LV5XD,OH,white,mercedes-benz,vans,mid size sedan,46,43
+38,T5XYTF2,CA,white,chevrolet,1500,truck,23,48
+39,YCJW9TS,TX,gold,ford,mpv,mid size sedan,58,88
+40,RNYLEIU,OH,white,ford,pk,truck,75,20
+41,ZGJJRZZ,MO,white,gmc,door,mid size sedan,26,33
+42,9JKUF2W,DC,white,mercedes-benz,vans,mid size sedan,53,61
+43,SRF3LJG,FL,red,chevrolet,1500,truck,44,20
+44,4DUY4H6,SC,red,ford,mpv,mid size sedan,24,42
+45,5L1KG8G,CA,black,ford,srw,compact sedan,31,83
+46,ZDCYPAQ,FL,black,gmc,door,mid size sedan,89,80
+47,BJTDDE0,PA,red,jeep,compass,suv,33,80
+48,JH140KU,OR,white,chevrolet,malibu,mid size sedan,65,93
+49,3BZV54P,NY,gray,dodge,mpv,truck,72,94
+50,QQR46B0,NY,black,ford,srw,compact sedan,24,41

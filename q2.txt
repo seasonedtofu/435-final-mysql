@@ -1,0 +1,38 @@
+-------q2------------Provide a simple description of your schema (10 points)---------REQUIRED
+Instead of E-R Diagram, use the notation below to describe your design
+Use only text and represent a table as S(Name,SID*,Age,Gender,cell) where S is a table and it has
+5 columns and SID is a primary key attribute, indicated by *.
+Course(CID*,Title,dept,Crhr) is another.
+and E(SID+,CID+)
+here the table E has two attributes SID and CID and both
+ are foreign key as indicated by +
+You can specify the FK relationships as follows:
+        CID(Course,E) according to the convention FK(PK Table,FK Table)
+Cardinality of the relationships may be specified as follows:
+1to1(E,Course) and 1toM(Course,E)
+1to1(S,Course) and 1toM(S,E)
+No need to draw anything just text ...
+
+----------------------------------------------------------------------
+Andrew Zhu
+Final Question 2
+
+TABLES:
+
+Customer(customer_id*,customer_name,profession,age,salary,town,state)
+Vehicle(vehicle_id*,vehicle_plate,registration_state,color,make,model,vehicle_type,per_day_rental_fee,per_day_insurance_fee)
+Rental(rental_id*,customer_id+,vehicle_id+,start_rental_date,return_rental_date,per_day_rental_fee_paid,per_day_insurance_fee_paid)
+
+FK RELATIONSHIPS:
+
+customer_id(Customer,Rental)
+vehicle_id(Vehicle,Rental)
+
+CARDINALITY OF RELATIONSHIPS:
+
+1to1(Rental,Customer) and 1toM(Customer,Rental)
+1to1(Rental,Vehicle) and 1toM(Vehicle,Rental)
+
+
+
+MYSQL CREATE TABLE QUERIES ARE IN create_table_queries.txt in the same directory as this file.
